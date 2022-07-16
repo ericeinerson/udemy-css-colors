@@ -1,9 +1,19 @@
 #first{
-    color: white;
-    background-color: black;
+   color: #ff0000;
+   background: #000;
 }
 
 #second{
-    color: yellowgreen;
-    background: white;
+    color: #ffffff;
+    background: #00ff00;
+}
+
+#three{
+    color: #0000ff;
+    background: #aa2a5f;
+}
+
+#four{
+   color: #f15025;
+   background: #f234ad;
 }
